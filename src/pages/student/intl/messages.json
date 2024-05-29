@@ -1,0 +1,17 @@
+{
+  "studentRow.name": "Name",
+  "studentRow.surname": "Surname",
+  "studentRow.averageGrade": "Average Grade",
+  "studentRow.groupName": "Group",
+  "validation.name.cannotBeEmpty": "Name must be provided",
+  "validation.surname.cannotBeEmpty": "Surname must be provided",
+  "validation.averageGrade.mustBeNumberInRange": "Average grade is supposed to be between 1 and 12",
+  "validation.groupName.mustBeFilled": "Group must be filled",
+  "loading.error": "While loading an error occurred",
+  "loading.filters.error": "While loading filters an error occurred",
+  "back": "Back",
+  "cancel": "Cancel",
+  "save": "Save",
+  "detailedInfo": "Detailed Info",
+  "filter.group.empty": "Choose group"
+}

@@ -1,0 +1,20 @@
+{
+  "loading.error": "While loading students an error occurred. Please, try again later.",
+  "findStudents": "Find Students",
+  "add": "Add",
+  "student.name": "Name",
+  "student.group": "Group",
+  "student.grade": "Average Grade",
+  "actions": "Actions",
+  "pagination.label": "Students per page",
+  "error": "Error: {error}",
+  "cancel": "Cancel",
+  "delete": "Delete",
+  "delete.title": "Student Delete",
+  "delete.subtitle": "Are u sure u want to delete this student?",
+  "delete.error": "While deleting student an error occurred. Please, try again later.",
+  "success.fetchingStudents": "Students loaded successfully",
+  "success.deleteStudent": "Student deleted successfully",
+  "filter.group.empty": "Choose group",
+  "filter.grade.empty": "Choose grade"
+}

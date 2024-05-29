@@ -1,0 +1,17 @@
+{
+  "studentRow.name": "Ім'я",
+  "studentRow.surname": "Прізвище",
+  "studentRow.averageGrade": "Середній бал",
+  "studentRow.groupName": "Група",
+  "validation.name.cannotBeEmpty": "Ім'я повинно бути вказане",
+  "validation.surname.cannotBeEmpty": "Прізвище повинно бути вказане",
+  "validation.averageGrade.mustBeNumberInRange": "Середній бал повинен бути в межах від 1 до 12",
+  "validation.groupName.mustBeFilled": "Група повинна бути заповнена",
+  "loading.error": "Під час завантаження виникла помилка",
+  "loading.filters.error": "Під час завантаження фільтрів виникла помилка",
+  "back": "Назад",
+  "cancel": "Скасувати",
+  "save": "Зберегти",
+  "detailedInfo": "Детальна інформація",
+  "filter.group.empty": "Обрати групу"
+}
